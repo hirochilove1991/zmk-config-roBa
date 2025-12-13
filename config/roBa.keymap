@@ -151,7 +151,7 @@
         SCROLL {
             bindings = <
 &kp N1     &kp N2     &kp N3        &kp N4  &kp N5                        &kp N6      &kp N7         &kp N8     &kp N9     &kp N0
-&kp GRAVE  &trans     &trans        &trans  &trans  &trans        &trans  &kp SEMI    &kp LBKT       &kp RBKT   &kp MINUS  &kp EQUAL
+&kp GRAVE  &kp SQT    &trans        &trans  &trans  &trans        &trans  &kp SEMI    &kp LBKT       &kp RBKT   &kp MINUS  &kp EQUAL
 &macro1    &macro2    &macro3       &trans  &trans  &trans        &trans  &kp DELETE  &kp BACKSLASH  &kp COMMA  &kp DOT    &kp FSLH
 &kp LSHFT  &kp RCTRL  &kp LEFT_ALT  &trans  &trans  &kp LGUI      &trans  &trans                                           &kp TAB
             >;
