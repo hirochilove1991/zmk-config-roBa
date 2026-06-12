@@ -11,7 +11,7 @@
 
 &zip_temp_layer { require-prior-idle-ms = <200>; };
 
-&trackball_listener { input-processors = <&zip_temp_layer 4 700>; };
+&trackball_listener { input-processors = <&zip_temp_layer 4 500>; };
 
 &trackball {
     // automouse-layer = <4>;
