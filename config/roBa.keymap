@@ -186,7 +186,7 @@
             >;
         };
 
-        layer_10 {
+        mouse_copy {
             bindings = <
 &kp F1          &kp F2     &kp F3        &kp F4  &kp F5                            &kp LG(A)      &kp LG(C)  &mkp MB3  &kp LG(V)  &kp LG(X)
 &kp ESC         &trans     &trans        &trans  &trans  &trans            &trans  &kp LC(LS(S))  &mkp MB1   &kp UP    &mkp MB2   &kp PAGE_UP
