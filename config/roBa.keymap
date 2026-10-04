@@ -291,6 +291,8 @@
 &kp F1      &kp X  &kp G  &kp H   &kp B      &kp N1      &trans  &trans  &trans  &trans  &trans  &trans
 &kp TAB     &kp M  &kp Z  &kp F2  &kp SPACE  &kp G       &trans  &trans                          &trans
             >;
+
+            sensor-bindings = <&inc_dec_kp PAGE_UP PAGE_DOWN>;
         };
     };
 };
