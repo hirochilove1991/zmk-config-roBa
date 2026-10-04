@@ -61,7 +61,7 @@
         };
 
         JIS_2 {
-            bindings = <&kp AT>;
+            bindings = <&kp LEFT_BRACKET>;
             key-positions = <34 1>;
             layers = <11>;
         };
