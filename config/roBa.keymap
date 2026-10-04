@@ -284,7 +284,7 @@
             >;
         };
 
-        layer_13 {
+        game {
             bindings = <
 &kp ESCAPE  &kp Q  &kp W  &kp E   &kp R                          &trans  &trans  &trans  &trans  &trans
 &kp LSHFT   &kp A  &kp S  &kp D   &kp F      &to 8       &trans  &trans  &trans  &trans  &trans  &trans
