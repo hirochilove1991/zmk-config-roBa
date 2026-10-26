@@ -143,6 +143,13 @@
             bindings = <&kp L &kp O &kp V &kp E &kp N1 &kp N9 &kp N9 &kp N1>;
             label = "MACRO3";
         };
+
+        macro4: macro4 {
+            compatible = "zmk,behavior-macro";
+            #binding-cells = <0>;
+            bindings = <&kp LS(M) &kp O &kp R &kp I &kp H &kp I &kp R &kp O &kp N1 &kp N9 &kp N9 &kp N1 &kp PERIOD &kp PERIOD>;
+            label = "MACRO4";
+        };
     };
 
     behaviors {
